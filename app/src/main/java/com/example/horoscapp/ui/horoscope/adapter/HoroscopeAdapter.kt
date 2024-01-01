@@ -4,6 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.horoscapp.R
+
 import com.example.horoscapp.domain.model.HoroscopeInfo
 
 class HoroscopeAdapter(
